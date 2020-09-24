@@ -24,7 +24,7 @@ input.onPinPressed(TouchPin.P0, function () {
 ## Step 1 
 
 We need to write code to check whether the user is correct if they touch pin #0.
-
+<br/><br/>
 Put a 'check door' custom block inside of the 'on Pin0 pressed' block that's already on your screen.
 
 ```blocks
@@ -35,7 +35,7 @@ input.onPinPressed(TouchPin.P0, function () {
 
 ## Step 2 
 
-Let's write some code to check pin #1.
+Let's write some code to check pin #1.<br/>
 Do the same thing that we did for P0, but make sure you're checking door 1.
 
 ```blocks
@@ -57,7 +57,7 @@ input.onPinPressed(TouchPin.P2, function () {
 ## Step 4
 
 Did writing this code help you figure out what you need to do to solve the mystery?
-
+<br/><br/>
 Try running the code here and see if you can answer the mystery!  
-
+<br/><br/>
 For extra fun, click ``|Download|`` to transfer your code to your microbit!
