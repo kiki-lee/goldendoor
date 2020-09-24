@@ -12,7 +12,7 @@ This tutorial will help you solve your first microbit mystery!
 
 <!-- > ## Step 1 @fullscreen
 
-Drag an 'on Pin0 pressed' block into the work area.
+Drag an 'on pin P0 pressed' block into the work area.
 
 ```blocks
 input.onPinPressed(TouchPin.P0, function () {
@@ -25,7 +25,7 @@ input.onPinPressed(TouchPin.P0, function () {
 
 We need to write code to check whether the user is correct if they touch pin #0.
 <br/><br/>
-Put a 'check door' custom block inside of the 'on Pin0 pressed' block that's already on your screen.
+Put a 'check door' custom block inside of the 'on pin P0 pressed' block that's already on your screen.
 
 ```blocks
 input.onPinPressed(TouchPin.P0, function () {
@@ -35,7 +35,7 @@ input.onPinPressed(TouchPin.P0, function () {
 
 ## Step 2 
 
-Let's write some code to check pin #1.<br/>
+Let's write some code to check pin P1.<br/>
 Do the same thing that we did for P0, but make sure you're checking door 1.
 
 ```blocks
