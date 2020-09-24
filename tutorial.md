@@ -1,5 +1,9 @@
 # Golden Door
 
+```template
+
+```
+
 ## Introduction @unplugged
 
 This tutorial will help you solve your first microbit mystery!
