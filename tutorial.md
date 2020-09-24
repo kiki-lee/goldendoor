@@ -35,7 +35,7 @@ input.onPinPressed(TouchPin.P0, function () {
 
 ## Step 2 
 
-Let's write some code to check pin P1.<br/>
+Let's write some code to check pin P1.<br/> 
 Do the same thing that we did for P0, but make sure you're checking door 1.
 
 ```blocks
