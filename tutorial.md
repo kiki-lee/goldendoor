@@ -1,14 +1,16 @@
 # Golden Door
 
 ```template
-
+input.onPinPressed(TouchPin.P0, function () {
+     
+})
 ```
 
 ## Introduction @unplugged
 
 This tutorial will help you solve your first microbit mystery!
 
-## Step 1 @fullscreen
+<!-- > ## Step 1 @fullscreen
 
 Drag an 'on Pin0 pressed' block into the work area.
 
@@ -17,11 +19,13 @@ input.onPinPressed(TouchPin.P0, function () {
      
 })
 ```
+-->
 
+## Step 1 
 
-## Step 2 
+We need to write code to check whether the user is correct if they touch pin #0.
 
-Now, put a 'check door' custom block inside of the 'on Pin0 pressed' block.
+Put a 'check door' custom block inside of the 'on Pin0 pressed' block that's already on your screen.
 
 ```blocks
 input.onPinPressed(TouchPin.P0, function () {
@@ -29,9 +33,10 @@ input.onPinPressed(TouchPin.P0, function () {
 })
 ```
 
-## Step 3 
+## Step 2 
 
-Do the same thing for pin P1, but make sure you're checking door 1.
+Let's write some code to check pin #1.
+Do the same thing that we did for P0, but make sure you're checking door 1.
 
 ```blocks
 input.onPinPressed(TouchPin.P1, function () {
@@ -39,9 +44,9 @@ input.onPinPressed(TouchPin.P1, function () {
 })
 ```
 
-## Step 4 
+## Step 3 
 
-Do the same thing for pin P2, but check door 2.
+Do the same thing for P2, but check door 2.
 
 ```blocks
 input.onPinPressed(TouchPin.P2, function () {
@@ -49,7 +54,7 @@ input.onPinPressed(TouchPin.P2, function () {
 })
 ```
 
-## Step 5
+## Step 4
 
 Did writing this code help you figure out what you need to do to solve the mystery?
 
