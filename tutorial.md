@@ -12,7 +12,7 @@ This tutorial will help you solve your first microbit mystery!
 
 <!-- > ## Step 1 @fullscreen
 
-Drag an 'on pin P0 pressed' block into the work area.
+Drag an ['on pin P0 pressed'](a "Find this in the 'Custom' catagory") block into the work area.
 
 ```blocks
 input.onPinPressed(TouchPin.P0, function () {
